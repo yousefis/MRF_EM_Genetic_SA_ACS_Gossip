@@ -1,6 +1,9 @@
 # MRF_EM_Genetic_SA_ACS_Gossip
 # Latest version: 2017-07-7
 
+Developer: 
+	Sahar Yousefi, syousefi(-at-)ce.sharif.edu	
+
 Functions:
 
 	In this project the below algorithms for brain MRI segmentation are implemented:
