@@ -2,6 +2,7 @@
 # Latest version: 2017-07-7
 
 Functions:
+
 	In this project the below algorithms for brain MRI segmentation are implemented:
 		1- Expectation Maximization
 		2- Traditional MRF models contain:
@@ -23,6 +24,7 @@ Functions:
 		p: vector of class proportions  
 		   
 Licence:
+
 	You are welcome to use this code in your own work. 
 	If you use this code, please cite one (or more) of these papers:
 		1- Yousefi, Sahar, Reza Azmi, and Morteza Zahedi. "Brain tissue segmentation in MR images based on a hybrid of MRF and social algorithms." Medical image analysis 16.4 (2012): 840-848.
@@ -31,6 +33,7 @@ Licence:
 	   
 	   
 QUESTIONS:
+
 	May you have any question, please contact 
 
 		syousefi(-at-)ce.sharif.edu
