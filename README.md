@@ -1,6 +1,6 @@
 # MRF_EM_Genetic_SA_ACS_Gossip
 # Latest version: 2017-07-7
-This is a Segmentation method based on MRF as proposed by Sahar Yousefi et al. 
+       This is a Segmentation method based on MRF as proposed by Sahar Yousefi et al. 
 
 Developer: 
 
